@@ -56,6 +56,4 @@ public class PigController {
     public String getPIGFallbackMessage(){
         return "MIG:Down - Default Message !!";
     }
-
-
 }
